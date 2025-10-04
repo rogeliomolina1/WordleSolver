@@ -47,7 +47,7 @@ A smart collaborative Wordle solver that works with you to solve Wordle puzzles!
 
 ## 🎮 How to Use
 
-1. **Enter your 5-letter guess** in the text input
+1. **Enter your 5-letter guess** in the text input (automatically converts to uppercase)
 2. **Click each letter** to cycle through colors:
    - ⬜ **Gray**: Letter not in the word
    - 🟨 **Yellow**: Letter is in the word but wrong position  
